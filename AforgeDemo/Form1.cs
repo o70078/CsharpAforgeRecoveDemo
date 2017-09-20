@@ -15,7 +15,7 @@ namespace AforgeDemo
 {
 	public partial class Form1 : Form
 	{
-		//用来操作摄像头
+		//用来操作摄像头 
 		private VideoCaptureDevice Camera = null;
 		//用来把每一帧图像编码到视频文件
 		private VideoFileWriter VideoOutPut = new VideoFileWriter();
